@@ -1,0 +1,432 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/muth4OYamXf41G2evdrLEg8d3om.jpg",
+      "genre_ids": [
+        14,
+        28
+      ],
+      "id": 557,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man",
+      "overview": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+      "popularity": 65.826,
+      "poster_path": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+      "release_date": "2002-05-01",
+      "title": "Spider-Man",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 13468
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6qVF0gnLnbKCgcMfCpCB8GH7B5I.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        878,
+        35
+      ],
+      "id": 324857,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  4 versiones alternas de Spider-Man aparecerán y buscarán regresar a su universo antes de que toda la realidad se colapse.",
+      "popularity": 85.494,
+      "poster_path": "/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+      "release_date": "2018-12-06",
+      "title": "Spider-Man: Un nuevo universo",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 9458
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        18
+      ],
+      "id": 315635,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: Homecoming",
+      "overview": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+      "popularity": 109.05,
+      "poster_path": "/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
+      "release_date": "2017-07-05",
+      "title": "Spider-Man: Homecoming",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 16224
+    },
+    {
+      "backdrop_path": "/yVS0mwGHf1NxiP3thnYNG0QK3sz.jpg",
+      "first_air_date": "1994-11-19",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 888,
+      "media_type": "tv",
+      "name": "Spider-Man",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Spider-Man",
+      "overview": "¿Imaginas ser capaz de sentir el peligro, subir cualquier pared, ser lo suficientemente fuerte como para doblar el acero, y tener más agilidad que cualquier otro ser humano? Para Peter Parker es un hecho. Excepto que él no piensa que es un regalo. En su último año de instituto, Peter Parker fue mordido por una araña radioactiva. Después de breves alucinaciones, Peter se despierta con poderes increíbles - muy parecidos a los de una araña. Por lo tanto, para hacer algo de dinero extra, Peter toma el personaje de Spider-Man, y trata de seguir una carrera como luchador profesional. Cuando es testigo de un robo, permite que el criminal escape simplemente porque \"no es su problema\". Luego, cuando su querido tío Ben es asesinado, Peter descubre que el asesino no es otro que el criminal que no detuvo anteriormente. Ahora, Peter usa sus poderes para detener el crimen porque \"un gran poder conlleva una gran responsabilidad\".",
+      "popularity": 53.726,
+      "poster_path": "/wXthtEN5kdWA1bHz03lkuCJS6hA.jpg",
+      "vote_average": 8.2,
+      "vote_count": 544
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8XiTPU1zfy41Xgg96TCHXj4uQJf.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Peter Parker decide irse junto a Michelle Jones, Ned y el resto de sus amigos a pasar unas vacaciones a Europa después de los eventos ocurridos en Vengadores: EndGame. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuándo es reclutado por Nick Fury para unirse a Mysterio (un humano que proviene de la Tierra 833, una dimensión del multiverso, que tuvo su primera aparición en Doctor Strange) para luchar contra los elementales (cuatro entes inmortales que vienen de la misma dimensión y que dominan los cuatro elementos de la naturaleza, el fuego, el agua, el aire y la tierra) . En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con  su labor.",
+      "popularity": 201.706,
+      "poster_path": "/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
+      "release_date": "2019-06-28",
+      "title": "Spider-Man: Lejos de casa",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 9908
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 559,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man 3",
+      "overview": "Tercera entrega de las aventuras del joven Peter Parker (Maguire). Parece que Parker ha conseguido por fin el equilibrio entre su devoción por Mary Jane y sus deberes como superhéroe. Pero, de repente, su traje cambia volviéndose negro y aumentando sus poderes; también Peter se transforma, sacando el lado más oscuro y vengativo de su personalidad. Bajo la influencia de este nuevo traje, Peter deja de proteger a la gente que realmente lo quiere y se preocupa por él. En estas circunstancias, no tiene más remedio que elegir entre disfrutar del tentador poder del nuevo traje o seguir siendo el compasivo héroe de antes. Mientras tanto, dos temibles enemigos, Venom y el Hombre de Arena, utilizarán sus poderes para calmar su sed de venganza.",
+      "popularity": 69.869,
+      "poster_path": "/wTdjrO0GG1OnpyWszEF6INjp3ZZ.jpg",
+      "release_date": "2007-05-01",
+      "title": "Spider-Man 3",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 9830
+    },
+    {
+      "backdrop_path": "/atkOOO7Ct4qqeSx4EHWCWkFy4ns.jpg",
+      "first_air_date": "2017-08-19",
+      "genre_ids": [
+        16,
+        10765
+      ],
+      "id": 72705,
+      "media_type": "tv",
+      "name": "Marvel Spider-Man",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Spider-Man",
+      "overview": "Un adolescente inteligente llamado Peter Parker es mordido por una araña radiactiva en una escuela a Oscorp y esta le dado poderes.? Se convierte en un héroe llamado Spider-Man después de la muerte de su tío Ben y debe adaptarse a este nuevo modo de vida.",
+      "popularity": 45.927,
+      "poster_path": "/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg",
+      "vote_average": 7.8,
+      "vote_count": 204
+    },
+    {
+      "backdrop_path": "/gXeCzYmCRBlpbbhhKrYM1ZpIDAA.jpg",
+      "first_air_date": "2012-04-01",
+      "genre_ids": [
+        10762,
+        10759,
+        16,
+        35
+      ],
+      "id": 34391,
+      "media_type": "tv",
+      "name": "Ultimate Spiderman",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Ultimate Spider-Man",
+      "overview": "Ultimate Spider-Man es una serie animada estadounidense creada por Man of Action Studios, basada en el cómic homónimo. La serie se lanzó el 1 de abril de 2012 en el canal Disney XD y finalizó con su cuarta temporada en enero de 2017.",
+      "popularity": 80.268,
+      "poster_path": "/eXtlDP6kgUyYw0G2L9AxSWUp14Q.jpg",
+      "vote_average": 7.6,
+      "vote_count": 641
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xYz4u1jWCKyXGzddMJeOL845DTr.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1930,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Un estudiante de secundaria que fue abandonado por sus padres cuando era niño, dejándolo a cargo de su tío Ben (Martin Sheen) y su tía May (Sally Field). Como la mayoría de los adolescentes de su edad, Peter trata de averiguar quién es y qué quiere llegar a ser. Peter también está encontrando su camino con su primer amor de secundaria, Gwen Stacy (Emma Stone), y juntos luchan por su amor con compromiso. Cuando Peter descubre un misterioso maletín que perteneció a su padre, comienza la búsqueda para entender la desaparición de sus padres, una búsqueda que le lleva directamente a Oscorp, el laboratorio del Dr Curt Connors (Rhys Ifans), ex-compañero de trabajo de su padre. Mientras Spider-Man se encuentra en plena colisión con el alter-ego de Connors, el Lagarto, Peter hará elecciones que alterarán sus opciones para usar sus poderes y darán forma a un destino héroico.",
+      "popularity": 64.627,
+      "poster_path": "/uiX2jlUHDYjb4kSGGCfhl4yAxIw.jpg",
+      "release_date": "2012-06-23",
+      "title": "The Amazing Spider-Man",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 12891
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ppehJ5HlIcqFpH9erwjwFGKdIoe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878,
+        35,
+        12
+      ],
+      "id": 569094,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse 2",
+      "overview": "Secuela de \"Spider-Man: Un nuevo universo\"",
+      "popularity": 33.675,
+      "poster_path": "/8ycplQbTU6DRRwiG95lQEpYkOVg.jpg",
+      "release_date": "2022-10-06",
+      "title": "Spider-Man: Un nuevo universo 2",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rF3kAqk08zGSvs8m6hRwsi28nHg.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 102382,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man 2",
+      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
+      "popularity": 74.283,
+      "poster_path": "/foJVlqwPUyvFEJTJqaPOnxKdqOj.jpg",
+      "release_date": "2014-04-16",
+      "title": "The Amazing Spider-Man 2: El poder de Electro",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 9352
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wMyG0xUIaGPazS13sKnaNNTXvRc.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        14
+      ],
+      "id": 634649,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "",
+      "popularity": 64.567,
+      "poster_path": "/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.jpg",
+      "release_date": "2021-12-15",
+      "title": "Spider-Man: No Hay Camino A Casa",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 558,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man 2",
+      "overview": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumir sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus, \"Doc Ock\". Su atracción por M.J. se hace más fuerte mientras lucha contra el impulso de abandonar su vida secreta y declarar su amor. Mientras tanto, M.J. ha seguido con su vida. Se ha embarcado en su carrera de actriz y tiene un nuevo hombre en su vida. La relación de Peter con su mejor amigo Harry Osborn se ha alejado por la creciente venganza de Harry contra Spider-Man, al que considera responsable de la muerte de su padre.",
+      "popularity": 24.229,
+      "poster_path": "/tGYrkVuskQKyRZ9WRS6wPTPBJpm.jpg",
+      "release_date": "2004-06-25",
+      "title": "Spider-Man 2",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 10879
+    },
+    {
+      "backdrop_path": "/3WRvDj6od3V6PB90LXFthFLBJmL.jpg",
+      "first_air_date": "1999-10-02",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 10079,
+      "media_type": "tv",
+      "name": "Spiderman Unlimited",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Spider-Man Unlimited",
+      "overview": "La serie tiene lugar en la Contra Tierra, un planeta creado en los cómics por el Alto Evolucionador.  El hijo de J. Jonah Jameson, John Jameson Jr, viaja en una nave espacial, pero los simbiontes Venom  y Carnage llegan hasta la nave, donde lo secuestran.Mientras tanto, Spider-Man es acosado por la  prensa y finge su propia muerte. Tras este hecho decide viajar en otra nave a la Contra Tierra con  un traje nuevo, que Reed Richards (de los 4 Fantásticos) aparentemente creó para él, basado en la  nanotecnología. Cuando logra llegar, se encuentra a una sociedad donde unos híbridos animales y  humanos (Bestials) dominan sobre los seres humanos que son rechazados por ser diferentes.",
+      "popularity": 29.527,
+      "poster_path": "/7xCuGGhXrgXoadeRrPOsALJ9IbH.jpg",
+      "vote_average": 7.4,
+      "vote_count": 133
+    },
+    {
+      "backdrop_path": "/2q8XkP4CSl2MTP7VfVeeHQHuUHD.jpg",
+      "first_air_date": "2008-03-08",
+      "genre_ids": [
+        10759,
+        16
+      ],
+      "id": 3854,
+      "media_type": "tv",
+      "name": "El Espectacular Spider-Man",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Spectacular Spider-Man",
+      "overview": "La serie presenta a Peter Parker como un estudiante de preparatoria que en meses recientes ha adquirido los poderes y la identidad de Spider-Man. \n\nSus mejores amigos son Harry Osborn y Gwen Stacy, y mas adelante conoce a Mary Jane Watson.\n\nObtiene su primer empleo en el diario \"Daily Bugle\" dirigido por J. Jonah Jameson, e intenta conseguir algo de dinero para ayudar a su tia May.\n\nMientras debe lidiar con los problemas tipicos de todo adolecente y combatir el crimen en la Ciudad de New York.",
+      "popularity": 43.812,
+      "poster_path": "/957mnVq6w3xIZwhO1isb4RWPatr.jpg",
+      "vote_average": 8.7,
+      "vote_count": 363
+    },
+    {
+      "backdrop_path": "/ts5Lq4DIkgcOzUBdpkhGdBTJTim.jpg",
+      "first_air_date": "1979-09-22",
+      "genre_ids": [
+        16
+      ],
+      "id": 4784,
+      "media_type": "tv",
+      "name": "Spider-Woman",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Spider-Woman",
+      "overview": "Serie de TV. Animación. Acción. Ciencia-ficción. Thriller. Cómic. Siendo pequeña, Jessica fue picada por una venenosa araña. Su padre, en un intento de salvar su vida, le inyectó un suero aún no probado, que no sólo la salvó, sino que transfirió algunas de las habilidades de la araña a la pequeña, conviertiéndola así en una joven con extraordinarios poderes y fuerza. ",
+      "popularity": 13.562,
+      "poster_path": "/lDuUr0D4gEh8xTEBcUfonBQpvyw.jpg",
+      "vote_average": 7.8,
+      "vote_count": 44
+    },
+    {
+      "backdrop_path": "/1Pbk0cgQ4krg2iaCQFg96U1VR2i.jpg",
+      "first_air_date": "1967-09-09",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 1482,
+      "media_type": "tv",
+      "name": "Spider-Man",
+      "origin_country": [
+        "US",
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Spider-Man",
+      "overview": "",
+      "popularity": 11.229,
+      "poster_path": "/n6eMF2lPQxiGmh2D612R5Tuxbzm.jpg",
+      "vote_average": 7.7,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 830741,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: Lotus",
+      "overview": "",
+      "popularity": 19.624,
+      "poster_path": "/2akjYSgsn5v32aZohyODYYZUhmm.jpg",
+      "release_date": "",
+      "title": "Spider-Man: Lotus",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i07DYwAVPp1VF4ydwNSGlW814wB.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 9613,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider",
+      "overview": "Ambientada en el East End londinense durante los años sesenta. Spider, un hombre de mente frágil e inestable, después de ser dado de alta en un psiquiátrico, es ingresado en un asilo. Allí su mente va reproduciendo una parte fundamental de su infancia.(FILMAFFINITY)",
+      "popularity": 7.19,
+      "poster_path": "/yyPZJHUtOXvXn2p6C3l0R3ntPCX.jpg",
+      "release_date": "2002-11-06",
+      "title": "Spider",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 487
+    },
+    {
+      "backdrop_path": "/gQENev4ojlGQd05ic9SiXlaXSzM.jpg",
+      "first_air_date": "1981-09-12",
+      "genre_ids": [
+        16,
+        10762
+      ],
+      "id": 3973,
+      "media_type": "tv",
+      "name": "Spider-Man",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Spider-Man",
+      "overview": "",
+      "popularity": 6.929,
+      "poster_path": "/5xZac4wWUlXQmEBqIIKJ9rqXnUh.jpg",
+      "vote_average": 7.2,
+      "vote_count": 27
+    }
+  ],
+  "total_pages": 18,
+  "total_results": 346
+}
